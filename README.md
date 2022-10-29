@@ -1,3 +1,2 @@
 # DevOps_data
-my first repository 
-my :pizza: and :coffee:
+my first repository :pizza: :pizza:
